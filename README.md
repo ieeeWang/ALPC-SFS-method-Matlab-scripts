@@ -12,7 +12,7 @@ ALPC_simulation_Example3.m
 A demo of results of ALPC_simulation_Example1.m:
 
 <p align="center">
-    <img width="200%" src="images/Fig2.png" style="max-width:200%;"></a>
+    <img width="200%" src="images/Fig4.png" style="max-width:200%;"></a>
 </p>
 
 The paper (to be published) can be found [here](https://doi.org/10.1101/2020.09.27.315614).
