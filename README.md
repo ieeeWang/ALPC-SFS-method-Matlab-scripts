@@ -15,4 +15,4 @@ A demo of results of ALPC_simulation_Example1.m:
     <img width="200%" src="images/Fig4.png" style="max-width:200%;"></a>
 </p>
 
-The paper (to be published) can be found [here](https://doi.org/10.1101/2020.09.27.315614).
+The per-print paper can be found [here](https://www.biorxiv.org/content/10.1101/2020.09.27.315614v3).
