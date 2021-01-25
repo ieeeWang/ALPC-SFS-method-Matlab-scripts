@@ -23,5 +23,8 @@ A demo (Fig.4) of results of ALPC_simulation_Example1.m:
     <img width="200%" src="images/Fig4.png" style="max-width:200%;"></a>
 </p>
 
+Simulation of the ALPC-SFS method for the system of Eq. (11). The two subsystems were successfully separated from the mixed nonlinear response, and their latencies were estimated correctly. (a) Input signal X (sum of five cosine signals with zero phases) and their mixed total response, Y. (b) SFS without applying the termination criterion. Each circle represents a candidate frequency and the dashed line crosses the candidate frequencies with the minimum MPE for each step (top panel) and their corresponding latencies (bottom panel). (c) Phase error (PE, in radians) of each selected frequency over time. The MPE (bold dashed line) reaches its minimum (close to 0) at the estimated latency. (d) Plot of phase lags determined from the estimated latency. The slopes of the best-fit lines correspond to the latencies.
+
+
 
 
